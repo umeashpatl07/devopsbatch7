@@ -1,0 +1,1000 @@
+ 1158  ./exescript.sh 
+ 1159  vim exescript.sh 
+ 1160  ./exescript.sh 
+ 1161  cd
+ 1162  cd backups
+ 1163  ls -t
+ 1164  rm -r 2024*
+ 1165  ls -t
+ 1166  cd
+ 1167  sudo apt install zip
+ 1168  cd day2/
+ 1169  ./exescript.sh 
+ 1170  vim exescript.sh 
+ 1171  ./exescript.sh 
+ 1172  cd
+ 1173  cd backups/
+ 1174  ls -t
+ 1175  cd
+ 1176  cd d
+ 1177  cd day2/
+ 1178  vim exescript.sh 
+ 1179  ./exescript.sh 
+ 1180  vim exescript.sh 
+ 1181  ./exescript.sh 
+ 1182  vim exescript.sh 
+ 1183  ./exescript.sh 
+ 1184  cd
+ 1185  cd backups/
+ 1186  ls -t
+ 1187  cd
+ 1188  cd day2/
+ 1189  vim exescript.sh 
+ 1190  ./exescript.sh 
+ 1191  vim exescript.sh 
+ 1192  ./exescript.sh 
+ 1193  cd
+ 1194  cd backups/
+ 1195  lsv-t
+ 1196  ls -t
+ 1197  cd
+ 1198  cd day2/
+ 1199  vim exescript.sh 
+ 1200  ./exescript.sh 
+ 1201  vim exescript.sh 
+ 1202  ./exescript.sh 
+ 1203  cd
+ 1204  cd bacq
+ 1205  cd backups/
+ 1206  ls -t
+ 1207  cd
+ 1208  cd day2/
+ 1209  vim exe
+ 1210  ls -t
+ 1211  vim exescript.sh 
+ 1212  ./exescript.sh 
+ 1213  cd
+ 1214  cd backups/
+ 1215  ls -t
+ 1216  ls -;
+ 1217  ls -l
+ 1218  chmod 7000
+ 1219  cd
+ 1220  chmod 700 backups/
+ 1221  ls -l
+ 1222  cd backups/
+ 1223  ls -l
+ 1224  cd
+ 1225  cd day2/
+ 1226  vim exescript.sh 
+ 1227  cd
+ 1228  cd backups/
+ 1229  ls -t
+ 1230  cd day2/exescript.sh
+ 1231  vim day2/exescript.sh
+ 1232  cd
+ 1233  cd day2/
+ 1234  ./ exescript.sh 
+ 1235  cd -ltr
+ 1236  ls -ltr
+ 1237  rm exe
+ 1238  rm 2
+ 1239  ls
+ 1240  ./ exescript.sh 
+ 1241  ./exescript.sh 
+ 1242  cd backup/
+ 1243  vim exescript.sh 
+ 1244  ./exescript.sh 
+ 1245  ./ exescript.sh 
+ 1246  ./exescript.sh 
+ 1247  cd 
+ 1248  cd backups/
+ 1249  ls -l
+ 1250  rm *.zip
+ 1251  rm *.gzip
+ 1252  rm *.sh
+ 1253  ls -ltr
+ 1254  ls -l
+ 1255  cd
+ 1256  cd day2/
+ 1257  vim exescript.sh 
+ 1258  ./exescript.sh 
+ 1259  xs
+ 1260  cd
+ 1261  cd backups/
+ 1262  ls
+ 1263  ls -t
+ 1264  cd
+ 1265  cd day2/
+ 1266  vim exescript.sh 
+ 1267  cd
+ 1268  ls
+ 1269  cd day2/
+ 1270  ./exescript.sh 
+ 1271  cd
+ 1272  pwd
+ 1273  ls -t
+ 1274  chmod 700 important_file.txt 
+ 1275  ls -t
+ 1276  ls -ltr
+ 1277  cd day2/
+ 1278  ./exescript.sh 
+ 1279  vim exescript.sh 
+ 1280  ./exescript.sh 
+ 1281  vim exescript.sh 
+ 1282  ./exescript.sh 
+ 1283  cd
+ 1284  ls -ltr
+ 1285  cd Backup_folder/
+ 1286  ls -l
+ 1287  ./ createbackup.sh 
+ 1288  ./createbackup.sh 
+ 1289  cd
+ 1290  ls
+ 1291  ls -ltr
+ 1292  rm -f *
+ 1293  rm -r *
+ 1294  ls
+ 1295  ls -ltr
+ 1296  clear
+ 1297  ls
+ 1298  mkdir backup
+ 1299  mkdir source
+ 1300  ls
+ 1301  cd source
+ 1302  touch newfile.txt
+ 1303  cd
+ 1304  ls
+ 1305  ls -,tr
+ 1306  ls -ltr
+ 1307  cd
+ 1308  cd source
+ 1309  ls
+ 1310  chmod 700 newfile.txt 
+ 1311  cd
+ 1312  vim script.sh
+ 1313  chmod 700 script.sh 
+ 1314  ./ script.sh 
+ 1315  ./script.sh 
+ 1316  vim script.sh 
+ 1317  ./script.sh 
+ 1318  vim script.sh 
+ 1319  ./script.sh 
+ 1320  vim script.sh 
+ 1321  ./script.sh 
+ 1322  vim script.sh 
+ 1323  ./sc
+ 1324  ./script.sh 
+ 1325  vim script.sh 
+ 1326  ./script.sh 
+ 1327  vim script.sh 
+ 1328  ./script.sh 
+ 1329  vim script.sh 
+ 1330  pwd
+ 1331  ls -ltr
+ 1332  cd source
+ 1333  ls
+ 1334  cd
+ 1335  ./script.sh 
+ 1336  vim ex
+ 1337  ls -ltr
+ 1338  vim script.sh 
+ 1339  ./script.sh 
+ 1340  vim script.sh 
+ 1341  rm script.sh 
+ 1342  ls
+ 1343  rm backup target
+ 1344  rn backup target
+ 1345  rm -r backup target
+ 1346  mv backup target
+ 1347  ls
+ 1348  mv News target
+ 1349  ls
+ 1350  vim script.sh
+ 1351  cd source
+ 1352  ls
+ 1353  cd 
+ 1354  cd target
+ 1355  ls
+ 1356  dc
+ 1357  ls
+ 1358  cd
+ 1359  ls
+ 1360  chmod 700 script.sh
+ 1361  ls
+ 1362  ./script.sh 
+ 1363  vim script.sh 
+ 1364  ./script.sh 
+ 1365  vim script.sh 
+ 1366  ./script.sh 
+ 1367  vim script.sh 
+ 1368  ls -ltr
+ 1369  bash script.sh 
+ 1370  vim script.sh 
+ 1371  bash script.sh 
+ 1372  ./script.sh 
+ 1373  vim script.sh 
+ 1374  ./script.sh 
+ 1375  vim script.sh 
+ 1376  ./script.sh 
+ 1377  cd
+ 1378  ls
+ 1379  cd target
+ 1380  ls
+ 1381  cd
+ 1382  vim script.sh 
+ 1383  ./script.sh 
+ 1384  vim script.sh 
+ 1385  ./script.sh 
+ 1386  vim script.sh 
+ 1387  ./script.sh 
+ 1388  vim script.sh 
+ 1389  ./script.sh 
+ 1390  vim script.sh 
+ 1391  ./script.sh 
+ 1392  cd target
+ 1393  ls
+ 1394  vim sc
+ 1395  cd
+ 1396  vim script.sh 
+ 1397  ./script.sh 
+ 1398  vim script.sh 
+ 1399  ./script.sh 
+ 1400  pwd
+ 1401  cd cd
+ 1402  cd..cd ..
+ 1403  ls
+ 1404  cd target/
+ 1405  pwd
+ 1406  cd
+ 1407  vim script.sh 
+ 1408  ./script.sh 
+ 1409  vim script.sh 
+ 1410  ./script.sh 
+ 1411  vim script.sh 
+ 1412  ./script.sh 
+ 1413  vim script.sh 
+ 1414  ./script.sh 
+ 1415  vim script.sh 
+ 1416  ./script.sh 
+ 1417  vim script.sh 
+ 1418  ./script.sh 
+ 1419  vim script.sh 
+ 1420  ./script.sh 
+ 1421  vim script.sh 
+ 1422  ./script.sh 
+ 1423  cd target
+ 1424  ls
+ 1425  ./script.sh 
+ 1426  cd
+ 1427  ./script.sh 
+ 1428  vim script.sh 
+ 1429  ./script.sh 
+ 1430  vim script.sh 
+ 1431  ./script.sh 
+ 1432  vim script.sh 
+ 1433  ./script.sh 
+ 1434  cd target/
+ 1435  ls
+ 1436  cd
+ 1437  vim script.sh 
+ 1438  ./script.sh 
+ 1439  cd target
+ 1440  ls
+ 1441  cd
+ 1442  vim script.sh 
+ 1443  ./script.sh 
+ 1444  cd target/
+ 1445  ls -t
+ 1446  cd
+ 1447  vim script.sh 
+ 1448  ./script.sh 
+ 1449  cd target/
+ 1450  ls -t
+ 1451  cd
+ 1452  vim script.sh 
+ 1453  cd
+ 1454  ls
+ 1455  cp script.sh runscripts
+ 1456  ls
+ 1457  ls -ltr
+ 1458  cat runscripts
+ 1459  clear
+ 1460  cd
+ 1461  ls
+ 1462  rm runscripts
+ 1463  ls
+ 1464  mkdir runscript
+ 1465  mv script.sh runscript
+ 1466  ls
+ 1467  ls -ltr
+ 1468  cd runscript/
+ 1469  ls
+ 1470  cp script.sh home/ubuntu/source
+ 1471  cp script.sh home/ubuntu/source/
+ 1472  cp script.sh /home/ubuntu/source/
+ 1473  cd
+ 1474  cd source
+ 1475  ls
+ 1476  mv script.sh backupscript.sh
+ 1477  ls
+ 1478  cd
+ 1479  cd runscript/
+ 1480  ./script.sh 
+ 1481  cd
+ 1482  cd target
+ 1483  ls-t
+ 1484  ls -t
+ 1485  cd
+ 1486  ls
+ 1487  cd
+ 1488  ls
+ 1489  cd runscript/
+ 1490  ls
+ 1491  ./schript
+ 1492  ./script.sh 
+ 1493  ./script.sh cd
+ 1494  cd
+ 1495  ls
+ 1496  cd target/
+ 1497  ls -l
+ 1498  date
+ 1499  e
+ 1500  cd
+ 1501  ls
+ 1502  touch newfile.txt cp target/
+ 1503  cd
+ 1504  cd target/
+ 1505  ls
+ 1506  ls -a
+ 1507  ls -ltr
+ 1508  touch newfile.txt
+ 1509  ls -ltr
+ 1510  cd
+ 1511  cd runscript/
+ 1512  ./script.sh 
+ 1513  cd
+ 1514  cd target/
+ 1515  ls -ltr
+ 1516  clear
+ 1517  git --version
+ 1518  git bash
+ 1519  git
+ 1520  git init
+ 1521  ls
+ 1522  cd
+ 1523  clear
+ 1524  mkdir gittutorial
+ 1525  cd
+ 1526  cd gittutorial/
+ 1527  mv gittutorial git-tutorial
+ 1528  rm gittutorial git-tutorial
+ 1529  d
+ 1530  cd
+ 1531  cd gittutorial/
+ 1532  mkdir devops-project-batch7
+ 1533  cd devops-project-batch7/
+ 1534  pwd
+ 1535  mkdir devops-practise-project
+ 1536  pwd
+ 1537  cd
+ 1538  cd gittutorial/
+ 1539  ls
+ 1540  cd
+ 1541  cd gittutorial/
+ 1542  ls -a
+ 1543  cd devops-project-batch7/
+ 1544  ls -a
+ 1545  rm devops-practise-project/
+ 1546  cd
+ 1547  cd gittutorial/
+ 1548  ls -l
+ 1549  mkdir devops-practise-project
+ 1550  ls -l
+ 1551  cd devops-project-batch7/
+ 1552  cler
+ 1553  clear
+ 1554  git init
+ 1555  ls
+ 1556  ls -a
+ 1557  cd .git/
+ 1558  ls -a
+ 1559  cd
+ 1560  clear
+ 1561  ls
+ 1562  cd gittutorial/
+ 1563  ls -a
+ 1564  cd devops-project-batch7/
+ 1565  ls -a
+ 1566  cd
+ 1567  cd gittutorial/
+ 1568  ls
+ 1569  cd devops-practise-project/
+ 1570  ls -a
+ 1571  cd
+ 1572  cd gittutorial/
+ 1573  cd devops-project-batch7/
+ 1574  touch laila.txt
+ 1575  touch majnu.txt
+ 1576  ls
+ 1577  ls -a
+ 1578  ls -l
+ 1579  ls
+ 1580  rm -r devops-practise-project/
+ 1581  ls
+ 1582  cd
+ 1583  cd gittutorial/
+ 1584  ls -l
+ 1585  cd devops-project-batch7/
+ 1586  ls -l
+ 1587  git status
+ 1588  clear
+ 1589  ls
+ 1590  git status
+ 1591  git add laila.txt
+ 1592  git status
+ 1593  git add majnu.txt
+ 1594  git status
+ 1595  git commit -m "feat: add laila majnu"
+ 1596  ls
+ 1597  git status
+ 1598  git log
+ 1599  rm majnu.txt
+ 1600  ls
+ 1601  git status
+ 1602  git restore majnu.txt
+ 1603  git status
+ 1604  git log
+ 1605  ls
+ 1606  git config
+ 1607  git config --global user.name"umeashpatil07"
+ 1608  git config --global user.email"patil.umesh7@outlook.com"
+ 1609  history > all_commands.txt
+ 1610  git status
+ 1611  git commit -m " feat: allcommands created"
+ 1612  git log
+ 1613  git status
+ 1614  git log
+ 1615  git add all_commands.txt 
+ 1616  git status
+ 1617  git log --oneline
+ 1618  git status
+ 1619  ls -l 
+ 1620  git log
+ 1621  git log --oneline
+ 1622  git commit all_commands.txt 
+ 1623  git status
+ 1624  git log
+ 1625  ls
+ 1626  git commit all_commands.txt 
+ 1627  git status
+ 1628  git log
+ 1629  git status
+ 1630  git log
+ 1631  git status
+ 1632  git log
+ 1633  ls -l
+ 1634  cat all_commands.txt 
+ 1635  clear
+ 1636  ls
+ 1637  git status
+ 1638  git log
+ 1639  ls -a
+ 1640  cd .git
+ 1641  ls
+ 1642  cd HEAD
+ 1643  CD logs
+ 1644  ls
+ 1645  cd
+ 1646  cd gittutorial/
+ 1647  ls
+ 1648  cd devops-project-batch7/
+ 1649  ls
+ 1650  git status
+ 1651  git log --oneline
+ 1652  git checkout -b dev
+ 1653  ls -l
+ 1654  git status
+ 1655  git log --oneline
+ 1656  touch featurefile1.txt
+ 1657  ls
+ 1658  git status
+ 1659  git add featurefile1.txt 
+ 1660  git comment -m " feat: added 1"
+ 1661  git status
+ 1662  git log
+ 1663  git log --oneline
+ 1664  git switch master
+ 1665  ls
+ 1666  git log
+ 1667  git status
+ 1668  git add featurefile1.txt 
+ 1669  git log
+ 1670  git status
+ 1671  git commit -m featurefile1.txt 
+ 1672  git log --oneline
+ 1673  git switch dev
+ 1674  ls
+ 1675  git switch master
+ 1676  ls
+ 1677  clear
+ 1678  git switch master
+ 1679  ls
+ 1680  git log --online
+ 1681  git log --oneline
+ 1682  git switch dev
+ 1683  git log --oneline
+ 1684  git status
+ 1685  git log --oneline
+ 1686  git switch master
+ 1687  git log -oneliine
+ 1688  git log --oneline
+ 1689  git branch
+ 1690  git remote -v
+ 1691  cd ..
+ 1692  git clone [200~https://github.com/LondheShubham153/90DaysOfDevOps.git~
+ 1693  ls
+ 1694  git status
+ 1695  git clone https://github.com/LondheShubham153/90DaysOfDevOps.git
+ 1696  ls
+ 1697  cd 90DaysOfDevOps/
+ 1698  ls
+ 1699  cd 2024
+ 1700  ls
+ 1701  cd day2
+ 1702  cd day11/
+ 1703  ls
+ 1704  cd
+ 1705  cd gittutorial/
+ 1706  git log
+ 1707  git status
+ 1708  cd 90DaysOfDevOps/
+ 1709  git status
+ 1710  git branch
+ 1711  clear
+ 1712  ls
+ 1713  git branch
+ 1714  git checkout -b dev_90daysof_devops
+ 1715  ls
+ 1716  git switch dev_90daysof_devops 
+ 1717  git log
+ 1718  git branch
+ 1719  clear
+ 1720  git status
+ 1721  ls
+ 1722  ls -a
+ 1723  cd .git
+ 1724  ls
+ 1725  cd ..
+ 1726  git log
+ 1727  cd
+ 1728  cd gittutorial/
+ 1729  cd 90DaysOfDevOps/
+ 1730  clear
+ 1731  git branch
+ 1732  git checkout -b " dev90daysofdevops"
+ 1733  git switch dev_90daysof_devops 
+ 1734  git remote -v
+ 1735  ls
+ 1736  git switch dev_90daysof_devops 
+ 1737  git remote -v
+ 1738  git push origin dev_90daysof_devops 
+ 1739  git remote -v
+ 1740  cd
+ 1741  ls
+ 1742  cd runscript/
+ 1743  git status
+ 1744  ls
+ 1745  git status
+ 1746  ls -a
+ 1747  git status
+ 1748  git intial
+ 1749  ls
+ 1750  git add script.sh 
+ 1751  git status
+ 1752  git log
+ 1753  git commit -m " file added scripts.sh"
+ 1754  git status
+ 1755  git branch
+ 1756  git log
+ 1757  cd .ssh
+ 1758  sshkeygen
+ 1759  ssh-keygen
+ 1760  ls
+ 1761  ls-a
+ 1762  ls -l
+ 1763  cd .ssh
+ 1764  ls
+ 1765  cd ..ssh
+ 1766  cd..
+ 1767  cd ..
+ 1768  cd .ssh
+ 1769  ls
+ 1770  cat id_ed25519.pub 
+ 1771  cd
+ 1772  ls
+ 1773  cd runscript/
+ 1774  git status
+ 1775  git add script.sh 
+ 1776  git comment -m " scriptfile added"
+ 1777  git status
+ 1778  git commit -m " script file added"
+ 1779  git status
+ 1780  git git add script.sh
+ 1781  git  add script.sh 
+ 1782  git commit -m " new script file added "
+ 1783  git status
+ 1784  git commit -m " new file added "
+ 1785  ls -a
+ 1786  git log
+ 1787  git branch
+ 1788  git status
+ 1789  git push origin master
+ 1790  git push origin devopsbatch7
+ 1791  ssh git push origin devopsbatch7
+ 1792  git pull origin demo.txt
+ 1793  git pull origin master
+ 1794  git pull origin demot.txt
+ 1795  git status
+ 1796  git branch
+ 1797  git log
+ 1798  git push origin main
+ 1799  git push origin master
+ 1800  git clone git@github.com:umeashpatil07/runscript.git
+ 1801  git clone git@github.com:umeashpatil07/demo.txt
+ 1802  ls
+ 1803  git commit -b local-repo
+ 1804  git checkout -b "local-repo"
+ 1805  git status
+ 1806  git branch
+ 1807  ls
+ 1808  ls -a
+ 1809  git branch
+ 1810  git add demo.txt
+ 1811  git add script.sh 
+ 1812  git commit -m " new file added script.sh "
+ 1813  git status
+ 1814  git log
+ 1815  git branch
+ 1816  git push origin main
+ 1817  git push origin master
+ 1818  git push main
+ 1819  git push --set-upstream main local-repo 
+ 1820  ls
+ 1821  git branch
+ 1822  git status
+ 1823  git add .
+ 1824  git commit " all added"
+ 1825  git commit -m " all added"
+ 1826  git add newfile.txt
+ 1827  git status
+ 1828  git add new file.txt
+ 1829  git add newfile.txt
+ 1830  git status
+ 1831  git log
+ 1832  git rm -m
+ 1833  git status
+ 1834  git add .
+ 1835  git commit -m " ass"
+ 1836  cd
+ 1837  ls
+ 1838  git status
+ 1839  git rm *
+ 1840  git rm -m
+ 1841  git rm -q
+ 1842  ls
+ 1843  mkdir batch7
+ 1844  ls
+ 1845  cd batch7/
+ 1846  git status
+ 1847  ls
+ 1848  cd
+ 1849  git branch
+ 1850  git switch master
+ 1851  git branch
+ 1852  cd ~
+ 1853  rm -rf .git
+ 1854  git status
+ 1855  git branch
+ 1856  cd batch7/
+ 1857  git status
+ 1858  ls
+ 1859  cd
+ 1860  cd runscript/
+ 1861  pwd
+ 1862  cd
+ 1863  cd batch7/
+ 1864  cp /home/ubuntu/runscript/scripts.sh /home/ubuntu/batch7/
+ 1865  cd
+ 1866  ls
+ 1867  cd runscript/
+ 1868  ls
+ 1869  cp /home/ubuntu/runscript/script.sh /home/ubuntu/batch7/
+ 1870  cd
+ 1871  cd batch7/
+ 1872  ls
+ 1873  git status
+ 1874  ls
+ 1875  git init
+ 1876  git branch
+ 1877  git log
+ 1878  git status
+ 1879  git add script.sh 
+ 1880  git commit -m " file added1"
+ 1881  git status
+ 1882  git log
+ 1883  git branch
+ 1884  git log
+ 1885  git commit -b dev
+ 1886  touch nibba.txt nibbi.txt
+ 1887  ls
+ 1888  git status
+ 1889  git add nibba.txt nibbi.txt
+ 1890  git commit -m " nibba nibbi file added"
+ 1891  ls
+ 1892  git status
+ 1893  git branch
+ 1894  ls
+ 1895  git status
+ 1896  ls
+ 1897  git branch
+ 1898  git status
+ 1899  clear
+ 1900  ls
+ 1901  vim nibba.txt 
+ 1902  git status
+ 1903  git restore nibba.txt
+ 1904  git status
+ 1905  vim nibba.txt
+ 1906  git status
+ 1907  git diff nibba.txt
+ 1908  git commit -m " added new version"
+ 1909  git status
+ 1910  git add nibba.txt 
+ 1911  git commit -m " added nibbi version"
+ 1912  git log
+ 1913  clear
+ 1914  ls
+ 1915  git  config --global user.name "umeashpatil07"
+ 1916  git config --global email.name "patil.umesh7@outlook.com"
+ 1917  git status
+ 1918  git log
+ 1919  vim nibbi.txt
+ 1920  git status
+ 1921  git add nibbi.txt 
+ 1922  git commit -m " file updated3"
+ 1923  git log
+ 1924  git log --oneline
+ 1925  git log --oneline --pretty
+ 1926  clear
+ 1927  git log --onelin e
+ 1928  git log --oneline
+ 1929  git config -l
+ 1930  ls
+ 1931  cd
+ 1932  mkdir git-project
+ 1933  cd git-project/
+ 1934  git clone https://github.com/umeashpatl07/devopsbatch7.git
+ 1935  ls
+ 1936  cd devopsbatch7/
+ 1937  ls
+ 1938  cat demo.txt 
+ 1939  git status
+ 1940  vim demo.txt
+ 1941  git status 
+ 1942  git add demo.txt
+ 1943  git commit -m " added local"
+ 1944  ls
+ 1945  git pull
+ 1946  ls
+ 1947  git status
+ 1948  git pull
+ 1949  ls
+ 1950  git pull
+ 1951  git pull devopsbatch7
+ 1952  git pull 
+ 1953  git pulll
+ 1954  git pull
+ 1955  git clone https://github.com/umeashpatl07/devopsbatch7.git
+ 1956  ls
+ 1957  git pull
+ 1958  cd
+ 1959  ls
+ 1960  cd
+ 1961  ls
+ 1962  cd git
+ 1963  cd git-project/
+ 1964  ls
+ 1965  cd devopsbatch7/
+ 1966  ls
+ 1967  rm devopsbatch7/
+ 1968  rm -rf devopsbatch7/
+ 1969  ls
+ 1970  git pull
+ 1971  git config pull.rebase falese
+ 1972  git pull
+ 1973  git config pull.rebase false
+ 1974  git pull
+ 1975  ls
+ 1976  git pull
+ 1977  es
+ 1978  git pull
+ 1979  ls
+ 1980  vim localfileadded.sh
+ 1981  ls
+ 1982  cd ..
+ 1983  ssh key-gen
+ 1984  cd .ssh
+ 1985  cd
+ 1986  cd ..ssh
+ 1987  cd .ssh
+ 1988  ssh key-gen
+ 1989  ssh keygen
+ 1990  ssh-keygen
+ 1991  ls
+ 1992  cat id_ed25519.pub 
+ 1993  git push origin main
+ 1994  cd
+ 1995  cd git-project/
+ 1996  git push origin main
+ 1997  ls
+ 1998  cd devopsbatch7/
+ 1999  git push origin main
+ 2000  ls
+ 2001  cd git
+ 2002  cd git-project/
+ 2003  ls
+ 2004  cd
+ 2005  cd gittutorial/
+ 2006  ls
+ 2007  cd
+ 2008  cd batch7/
+ 2009  ls
+ 2010  git push origin main
+ 2011  git push main
+ 2012  git push --set-upstream main master
+ 2013  git push --set-upstream main 
+ 2014  ls
+ 2015  history
+ 2016  ls
+ 2017  vim jadoo.sh
+ 2018  git status
+ 2019  git add jadoo.sh 
+ 2020  git commit -m " jadoo added"
+ 2021  git status
+ 2022  ls
+ 2023  git pull origin 
+ 2024  git pull
+ 2025  git pull devopsbatch7
+ 2026  git branch
+ 2027  git switch
+ 2028  git pull
+ 2029  git pull git@github.com:umeashpatl07/devopsbatch7.git
+ 2030  ls
+ 2031  git log
+ 2032  git ls
+ 2033  git commit
+ 2034  git status
+ 2035  ls -a
+ 2036  cd .git
+ 2037  ls
+ 2038  cd ..
+ 2039  ls
+ 2040  ls -a
+ 2041  cd .git/
+ 2042  ls -a
+ 2043  cd ..
+ 2044  ls
+ 2045  git clone git@github.com:umeashpatl07/devopsbatch7.git
+ 2046  ls
+ 2047  cd devopsbatch7/
+ 2048  ls
+ 2049  ls -a
+ 2050  cd .git
+ 2051  ls
+ 2052  ls -a
+ 2053  cd ..
+ 2054  ls -a
+ 2055  ls -ltr
+ 2056  darte
+ 2057  date
+ 2058  cat testfile.txt 
+ 2059  cd
+ 2060  cd batch7/
+ 2061  ls
+ 2062  cd devopsbatch7/
+ 2063  git checkout  -b dev-repp
+ 2064  git branch
+ 2065  cd ..
+ 2066  cd devopsbatch7/
+ 2067  git status
+ 2068  git switch
+ 2069  git switch batch7
+ 2070  git switch dev-repp 
+ 2071  git switch devopsbatch7
+ 2072  git switch batch7
+ 2073  cd
+ 2074  ls
+ 2075  cd batch7/
+ 2076  ls
+ 2077  cd devopsbatch7/
+ 2078  git checkout  -b newrepo
+ 2079  git status
+ 2080  clear
+ 2081  git status
+ 2082  ls
+ 2083  git switch master
+ 2084  git switch 
+ 2085  git switch master
+ 2086  git branch
+ 2087  rm -r dev-repp
+ 2088  rm -rf dev-repp
+ 2089  ls
+ 2090  git branch
+ 2091  ls
+ 2092  cd shiva.txt
+ 2093  cat shiva.txt
+ 2094  vim solution.txt
+ 2095  git status
+ 2096  git add solution.txt 
+ 2097  git status 
+ 2098  git commit -m " solutionfile added"
+ 2099  git log
+ 2100  git status
+ 2101  git remote -v
+ 2102  git push origin newrepo
+ 2103  git push remote dev-rep
+ 2104  git push origin newrepo
+ 2105  git push origin devopsbatch7
+ 2106  git branch
+ 2107  git push origin main
+ 2108  git switch master
+ 2109  git switch main
+ 2110  git branch
+ 2111  git push remote -v
+ 2112  git push origin newrepo 
+ 2113  git remote set-url origin
+ 2114  git remote -v
+ 2115  git remote set-url --add origin https://github.com:umeashpatl07/devopsbatch7.git
+ 2116  ls
+ 2117  git remote -v
+ 2118  vim kaykaru.txt
+ 2119  git status
+ 2120  git add kaykaru.txt 
+ 2121  git commit -m " added"
+ 2122  git push origin dev-repp 
+ 2123  git push origin newrepo 
+ 2124  git push origin dev-repp 
+ 2125  git branch
+ 2126  git switch newrepo 
+ 2127  git branch
+ 2128  git remote -v
+ 2129  git remote seturl origin git@github.com:umeashpatl07/devopsbatch7.git
+ 2130  git remote set-url origin git@github.com:umeashpatl07/devopsbatch7.git
+ 2131  cd .ssh
+ 2132  cd ..
+ 2133  cd .ssh
+ 2134  ls
+ 2135  cd .ssh
+ 2136  cd.ssh
+ 2137  cd .ssh
+ 2138  cd
+ 2139  cd .ssh
+ 2140  ls
+ 2141  cat id_ed25519.pub 
+ 2142  cd ..
+ 2143  cd batch7/
+ 2144  git status
+ 2145  cd
+ 2146  ls
+ 2147  cd gittutorial/
+ 2148  git status
+ 2149  ls
+ 2150  git status
+ 2151  git clone git@github.com:umeashpatl07/devopsbatch7.git
+ 2152  ls
+ 2153  cd devops
+ 2154  cd devopsbatch7/
+ 2155  ls
+ 2156  git status
+ 2157  history > allcommds.txt
